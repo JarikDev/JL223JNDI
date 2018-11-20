@@ -1,0 +1,9 @@
+﻿1. Java Core 9 edition Volume 1 and 2, Cay S.Horstmann & Gary Cornell +++
+2. Sun Certified Programmer for Java 6 Study Guide SCJP, Kathy Sierra & Bert Bates +++ (самая классная)
+3. MAVEN The definitive guide, O’Reilly +
+4. Pro GIT 2 edition, Scott Chacon & Ben Straub, APRESS +
+5. Java 8 Lamdas, Richard Warburton, O’Reilly +++ (небольшая, но содержит все нововведения, не только лямбды)
+6. Just HIBERNATE, Madhusudhan Konda, O’Reilly ++ (только азы, но читать легко)
+7. SPRING in action 4 edition, Craig Walls, Manning ++ (только азы, но читать легко)
+8. JUnit in action, Vincent Massol & Ted Husted, Manning ++
+9. Oracle Certified Professional Java SE 7 Programmer Exams 1Z0-804 and 1Z0-805, S G Ganesh & Tushar Sharma (читать только про многопоточность) +﻿
